@@ -15,11 +15,18 @@ const eventItem = ({
   // TODO:
   switch (type) {
     case "scarification":
-      break;
+      //TODO:
+      return (
+        <EventItem></EventItem>
+      )
     case "demands":
-      break;
+      return (
+        <EventItem></EventItem>
+      )
     case "response":
-      break;
+      return (
+        <EventItem></EventItem>
+      )
     case "timeline":
     default:
       return (
@@ -29,7 +36,6 @@ const eventItem = ({
         </EventItem>
       )
   }
-  return null;
 }
 
 export default eventItem;
