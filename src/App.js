@@ -1,25 +1,44 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {
+  Application,
+  Header,
+  Subheader,
+  Content,
+  Year,
+  Month
+} from './app.styles';
+import EventList from './components/eventList';
+import data from './json/history/en-us.json';
 
 function App() {
+  console.log(data);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Application className="App">
+      <Header>{data.title.toUpperCase()}</Header>
+      <Subheader>{data.subtitle.toUpperCase()}</Subheader>
+      <Content>
+        {Object.keys(data.events).map(year => {
+            return (
+              <React.Fragment>
+                <Year>{year}</Year>
+                {Object.keys(data.events[year]).map((month, index) => {
+                  return (
+                    <React.Fragment>
+                      <Month>{month}</Month>
+                      <EventList
+                        key={`eventlist-${year}-${month}-${index}`}
+                        month={month}
+                        events={data.events[year][month]}
+                      />
+                    </React.Fragment>
+                  );
+                })}
+              </React.Fragment>
+            )}
+        )}
+      </Content>
+    </Application>
   );
 }
 

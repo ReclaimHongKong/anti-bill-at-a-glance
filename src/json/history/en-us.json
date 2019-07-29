@@ -1,0 +1,182 @@
+{
+  "title": "What Were Hongkongers Doing In hot summer of 2019",
+  "subtitle": "ANTI-EXTRADITION BILL At A Glance",
+  "events": {
+    "2018": {
+      "DEC": {
+        "4": [{
+            "type": "timeline",
+            "title": "A Hong Kong Man KILLED His GIRLFRIEND in Taiwan",
+            "content": "Now hiding in HK, Chan Tong-kai was wanted by Taiwan for murdering his pregnant girlfriend while in Taiwan."
+        }]
+      }
+    },
+    "2019": {
+      "FEB": {
+        "13": [{
+          "type": "timeline",
+          "title": "EXTRADITION law AMENDMENT Bill Proposed",
+          "content": "HK government proposed an Extradititon Law Amendment Bill that would allow for fugitives like Chan to be sent to other places including Taiwan and mainland China."
+        }]
+      },
+      "MAR": {
+        "31": [{
+          "type": "timeline",
+          "title": "FIRST ANTI-BILL MARCH",
+          "content": "12,000 people took to the street."
+        }]
+      },
+      "APR": {
+        "3": [{
+          "type": "timeline",
+          "title": "first reading of the bill",
+          "content": ""
+        }],
+        "28": [{
+          "type": "timeline",
+          "title": "SECOND ANTI-BILL MARCH",
+          "content": "130,000 people took to the street."
+        }]
+      },
+      "MAY": {
+        "10": [{
+          "type": "timeline",
+          "title": "Taiwan said it won’t ask for MURDER suspect",
+          "content": "Taiwan said it won’t ask HK to send Chan even if the bill passed into law, as the bill puts TW citizens at risk of Communist China's reach."
+        }]
+      },
+      "JUN": {
+        "9": [
+          {
+            "type": "timeline",
+            "title": "THIRD ANTI-BILL MARCH",
+            "content": "One million people took to the streets to call for the withdrawal of the extradition bill."
+          },
+          {
+            "type": "response",
+            "responder": "gov",
+            "content": "Government issued a statement an hour after the march, stating the Second Reading will go ahead according to schedule on July 12."
+          }
+        ],
+        "12": [
+          {
+            "type": "timeline",
+            "title": "Class boycott and strikes",
+            "content": ""
+          },
+          {
+            "type": "timeline",
+            "title": "Second reading postponed as Parliament blockaded",
+            "content": "Police used excessive force against protesters, firing rubber bullets aimed at the head without warning. Multiple incidents of police assaulting press were caught on camera. 150 rounds of tear gas, 20 bean bag rounds, and no less than 10 rounds of rubber bullets were fired."
+          }
+        ],
+        "15": [
+          {
+            "type": "scarification",
+            "title": "DEATH OF THE FIRST PROTESTER",
+            "content": "A man unfurled an anti-bill banner and jumped to his death at Pacific Place."
+          },
+          {
+            "type": "timeline",
+            "title": "Bill Put on Hold",
+            "content": "HK Chief Carrie Lam announced the bill is now PUT ON HOLD at a press conference."
+          },
+          {
+            "type": "response",
+            "responder": "carrie",
+            "content": "No response to any of the FOUR DEMANDS."
+          }
+        ],
+        "16": [
+          {
+            "type": "timeline",
+            "title": "fourth ANTI-Bill MARCH",
+            "content": "Two million people took to the street urging the government to respond to the following demands."
+          },
+          {
+            "type": "demands",
+            "title": "FOUR DEMANDS",
+            "demands": [
+              "COMPLETE WITHDRAWAL OF THE EXTRADITION BILL",
+              "INVESTIGATE POLICE FORCE FOR POLICE BRUTALITY",
+              "RETRACT ʻRIOTʼ CHARACTERIZATION OF THE JUNE 12 PROTEST",
+              "DROP CHARGES AGAINST ALL ARRESTED PROTESTERS"
+            ]
+          }
+        ],
+        "18": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "19": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "20": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "21": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "26": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "27": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "28": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "29": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "30": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }]
+      },
+      "JUL": {
+        "1": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "2": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "3": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "7": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }],
+        "9": [{
+          "type": "timeline",
+          "title": "",
+          "content": ""
+        }]
+      }
+    }
+  }
+}
