@@ -2,7 +2,13 @@ import React from 'react';
 import {
   EventItem,
   TimelineHeader,
-  TimelineContent
+  TimelineContent,
+  ScarificationHeader,
+  ScarificationContent,
+  DemandHeader,
+  DemandList,
+  DemandItem,
+  ResponseContent
 } from './index.styles';
 
 const eventItem = ({
@@ -15,26 +21,39 @@ const eventItem = ({
   // TODO:
   switch (type) {
     case "scarification":
-      //TODO:
       return (
-        <EventItem></EventItem>
+        <EventItem>
+          <ScarificationHeader>{title.toUpperCase()}</ScarificationHeader>
+          <ScarificationContent>{content}</ScarificationContent>
+        </EventItem>
       )
     case "demands":
       return (
-        <EventItem></EventItem>
+        <EventItem>
+          <DemandHeader>{title.toUpperCase()}</DemandHeader>
+          <DemandList>
+            {demands.map((demand, index) => {
+              return (<DemandItem>{demand}</DemandItem>)
+          })}
+          </DemandList>
+        </EventItem>
       )
     case "response":
-      return (
-        <EventItem></EventItem>
-      )
-    case "timeline":
-    default:
+      //TODO: generate icon
       return (
         <EventItem>
-          <TimelineHeader>{title.toUpperCase()}</TimelineHeader>
+          <ResponseContent>{content}</ResponseContent>
+        </EventItem>
+      )
+    case "timeline":
+      return (
+        <EventItem>
+          {title && <TimelineHeader>{title.toUpperCase()}</TimelineHeader> }
           <TimelineContent>{content}</TimelineContent>
         </EventItem>
       )
+    default:
+      return null;
   }
 }
 

@@ -104,78 +104,146 @@
             ]
           }
         ],
-        "18": [{
-          "type": "timeline",
-          "title": "",
-          "content": ""
-        }],
+        "18": [
+          {
+            "type": "timeline",
+            "title": "CARRIE LAM Apologized",
+            "content": "Lam made a ‘sincere apologiy’ to HK citizens at a press conference."
+          },
+          {
+            "type": "response",
+            "responder": "carrie",
+            "content": "However, Lam still failed to respond to any of the four demands, nor stating whether the bill will be COMPLETELY WITHDRAWN, as opposed to merely put on hold."
+          }
+        ],
         "19": [{
           "type": "timeline",
-          "title": "",
-          "content": ""
+          "title": "PROTESTERS Set A DEADLINE for Government RESPONSE",
+          "content": "Six student unions issueed a joint statement, appealing the government to respond to the FOUR DEMANDS by 5pm June 20, stating that failure to meet deadline will lead to escalated actions."
         }],
         "20": [{
-          "type": "timeline",
-          "title": "",
-          "content": ""
+          "type": "response",
+          "responder": "gov",
+          "content": "The government failied to respond to the four demands by the 5pm deadline."
         }],
-        "21": [{
-          "type": "timeline",
-          "title": "",
-          "content": ""
-        }],
-        "26": [{
-          "type": "timeline",
-          "title": "",
-          "content": ""
-        }],
+        "21": [
+          {
+            "type": "timeline",
+            "title": "post-deadline Escalation - Occupation of government OFFICES",
+            "content": "Protesters occupied the foyers of the Revenue Tower in an act of civil disobedience to disrupt government operations."
+          },
+          {
+            "type": "timeline",
+            "title": "post-deadline Escalation - SIEGE of police HeadQuaters",
+            "content": "Protesters besieged the police HQ around noon time, demanding dialogue with Police Commissioner Stephen Lo to no avail. Police cleared the scene in the late evening."
+          },
+          {
+            "type": "response",
+            "responder": "lo",
+            "content": "Lo did not come out to meet over the day-long siege."
+          }
+        ],
+        "26": [
+          {
+            "type": "timeline",
+            "title": "“Liberate HK” March",
+            "content": "1,500 protesters visited nineteen G20 embassies to deliver letters, pleading G20 leaders to raise concerns about Hong Kong at the upcoming summit."
+          },
+          {
+            "type": "timeline",
+            "title": "ESCALATION - GATHERING AT DOJ Offices",
+            "content": "Protesters gathered outside Department of Justice offices demanding dialogue, urging Secretary for Justice Teresa Cheng to absolve arrested protesters and retract the ‘riot’ characterization of the June 12 protest."
+          },
+          {
+            "type": "response",
+            "responder": "cheng",
+            "content": "Cheng did not come out to meet."
+          },
+          {
+            "type": "timeline",
+            "title": "“G20 Free HK” assembly",
+            "content": "Thousands gathered at Edinburgh Place in the evening calling on G20 countries to speak up for HK."
+          }
+        ],
         "27": [{
           "type": "timeline",
-          "title": "",
-          "content": ""
+          "title": "“Stand with HK” ad campaign - fund raising",
+          "content": "In order to plead G20 leaders to act over the crisis in HK, netizens launched a crowdfunding campaign to place front-page ads in major international newspapers. The campaign raised a whopping 6.7 million within hours, way over the target budget of 3 millions."
         }],
         "28": [{
           "type": "timeline",
-          "title": "",
-          "content": ""
+          "title": "“Stand with HK” ad campaign - AD PLACED ON NewsAPErS Across 13 COUNTRIES",
+          "content": "A series of ads featuring pleas for readers from G20 countries were placed on 19 newspapers across 13 countries, including New York Times, The Guardian, The Australian, 朝日新聞, and 동아일보."
         }],
-        "29": [{
-          "type": "timeline",
-          "title": "",
-          "content": ""
-        }],
+        "29": [],
         "30": [{
-          "type": "timeline",
-          "title": "",
-          "content": ""
+          "type": "scarification",
+          "title": "DEATH OF THE 2ND and 3RD PROTESTeRS",
+          "content": "More took their lives leaving behind suicide notes condemning the government’s inaction. A vigil was held outside of the parliament."
         }]
       },
       "JUL": {
-        "1": [{
-          "type": "timeline",
-          "title": "",
-          "content": ""
-        }],
-        "2": [{
-          "type": "timeline",
-          "title": "",
-          "content": ""
-        }],
+        "1": [
+          {
+            "type": "timeline",
+            "title": "JULY 1 MARCH",
+            "content": "550,000 people took to the street."
+          },
+          {
+            "type": "timeline",
+            "title": "Chinese Communist Party Founding Day - Black Flag Hoisted in HK",
+            "content": "To commemorate the handover of HK, the Communist China flag is raised on July 1 each year. Due to the protest, the ceremony moved indoor this year."
+          },
+          {
+            "type": "timeline",
+            "title": "",
+            "content": "Protesters took over the original flag poles, lowered the HK flag to half-mast and raised the Black Bauhinia flag, symbolic of the protest, replacing the Communist China flag."
+          },
+          {
+            "type": "timeline",
+            "title": "Storming of Parliament",
+            "content": "Protestors stormed the parliament, and in a symbolic act of defiance defaced the Communist Hong Kong emblem."
+          },
+          {
+            "type": "timeline",
+            "title": "",
+            "content": "One of the protesters took off his mask, revealing himself to be Brian Leung, a co-editor of renowned Hong Kong University publication “Hong Kong Nationalism”. Following his lead, the protesters delivered the “Manifesto of HK Protesters” and fled the scene before police arrived."
+          }
+        ],
+        "2": [
+          {
+            "type": "timeline",
+            "title": "THE 4 a.m. Press Conference",
+            "content": "Lam called for a press conference at 4 a.m. only to rehash the same old lines condemning protester violence."
+          },
+          {
+            "type": "response",
+            "responder": "carrie",
+            "content": "Lam declined to respond to any of the FOUR DEMANDS, insisting the bill had already been PUT ON HOLD."
+          }
+        ],
         "3": [{
-          "type": "timeline",
-          "title": "",
+          "type": "scarification",
+          "title": "DEATH OF THE 4TH PROTESTER",
           "content": ""
         }],
         "7": [{
           "type": "timeline",
-          "title": "",
-          "content": ""
+          "title": "“Take back HK“ Movement Kicked Off at Tsim Sha Tsui",
+          "content": "Protesters resolved to hold marches all over HK. 23,000 people took part in a march across Tsim Sha Tsui, first in a series of “Take Back HK” marches."
         }],
-        "9": [{
-          "type": "timeline",
-          "title": "",
-          "content": ""
-        }]
+        "9": [
+          {
+            "type": "timeline",
+            "title": "Bill Pronounced Dead",
+            "content": "Lam admitted failure to push the bill, stated at this point “the bill is dead” at a press conference."
+          },
+          {
+            "type": "response",
+            "responder": "carrie",
+            "content": "However, the DEATH of a bill is legally unfounded. It is as if Lam was under a curse barring her from saying “COMPLETELY WITHDRAWN”. FOUR DEMANDS still not responded"
+          }
+        ]
       }
     }
   }

@@ -1,5 +1,5 @@
 import React from 'react';
-import { EventList, Day, Side, Content, Month } from './index.styles';
+import { EventList, Day, Side, Content } from './index.styles';
 import EventItem from '../eventItem';
 
 const eventList = ({
