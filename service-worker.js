@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/anti-bill-at-a-glance/precache-manifest.cc9f9c38100b7c4318d83ed6c44ce6bd.js"
+  "/anti-bill-at-a-glance/precache-manifest.9b59711896d7584f26e62cf1fdba2cef.js"
 );
 
 self.addEventListener('message', (event) => {
