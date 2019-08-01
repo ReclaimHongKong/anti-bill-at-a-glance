@@ -2,7 +2,7 @@
   "name": "anti-bill-at-a-glance",
   "description": "",
   "version": "0.1.0",
-  "homepage": "http://reclaimhongkong.github.io/anti-bill-at-a-glance",
+  "homepage": "https://reclaimhongkong.github.io/anti-bill-at-a-glance",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -16,9 +16,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "styled-components": "^4.3.2"
-  },
-  "devDependencies": {
+    "styled-components": "^4.3.2",
     "gh-pages": "^2.0.1"
   },
   "eslintConfig": {
